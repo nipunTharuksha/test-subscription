@@ -1,0 +1,19 @@
+{
+    "name": "parallax/subsciption-package",
+    "description": "Subscription management system for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nipunparallax",
+            "email": "nipun@parallax.lk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Parallax\\SubscriptionPackage\\": "src/"
+        }
+    }
+}
