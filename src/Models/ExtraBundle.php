@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace ParallaxTechnologies\SubscriptionPackage\Model;
 
 use Illuminate\Database\Eloquent\Model;
 

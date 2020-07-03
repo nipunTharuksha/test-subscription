@@ -1,6 +1,6 @@
 <?php
 
-namespace Parallax\SubscriptionPackage;
+namespace ParallaxTechnologies\SubscriptionPackage;
 
 use Illuminate\Support\ServiceProvider;
 

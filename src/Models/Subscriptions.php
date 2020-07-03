@@ -1,6 +1,6 @@
 <?php
 
-namespace Parallax\SubscriptionPackage\Model;
+namespace ParallaxTechnologies\SubscriptionPackage\Model;
 
 use Illuminate\Database\Eloquent\Model;
 use Parallax\SubscriptionPackage\Traits\HasSubscriptions;
