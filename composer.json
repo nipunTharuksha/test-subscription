@@ -15,5 +15,12 @@
         "psr-4": {
             "ParallaxTechnologies\\SubscriptionPackage\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "ParallaxTechnologies\\SubscriptionPackage\\SubscriptionServiceProvider"
+            ]
+        }
     }
 }
